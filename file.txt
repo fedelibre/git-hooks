@@ -1,0 +1,1 @@
+add first file and check what git-multimail does when I push to the server
